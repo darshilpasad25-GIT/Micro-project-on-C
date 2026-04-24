@@ -1,3 +1,6 @@
+/*By 1. Hetvi panchal 37
+2. Darshil Pasad 38
+3. Keval Patel 39*/
 #include <stdio.h>
 #include <string.h>
 #define MAX 50
